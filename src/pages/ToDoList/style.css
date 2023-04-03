@@ -1,0 +1,23 @@
+.container{
+    width: 60%;
+    margin-top: 30px;
+}
+.btn {
+   border-color: white !important;
+}
+.empty{
+    height: 100px;
+    padding-top: 40px;
+    text-align: center;
+}
+.input{
+    background-color: #FAFAF9;
+    border: none;
+}
+.clear{
+    color: #BE123C;
+}
+.invalid{
+    color: #BE123C;
+    margin-left: 13px;
+}
