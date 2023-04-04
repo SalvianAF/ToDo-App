@@ -12,7 +12,7 @@ Before you install the application, you need to clone the repository and have np
 ```
 
 ## Documentation
+[video](https://drive.google.com/file/d/1qNIJYihQAAS1xro06wSn3aT9KHhjl7GF/view?usp=sharing)<br />
+In direct contact the color is not blend. But, in the video it is blend 
 
-In direct contact the color is not blend. But, in the video it is blend
-[video](https://drive.google.com/file/d/1qNIJYihQAAS1xro06wSn3aT9KHhjl7GF/view?usp=sharing)
 
