@@ -43,6 +43,11 @@ const ToDoList = () => {
         setModalShow(false)
     }
 
+    const cancleAdd = () => {
+        setIsAdd(false) 
+        setIsValid(true)
+    }
+
     return(
         <div className="container">
             <Row  className="mb-4">
@@ -74,7 +79,7 @@ const ToDoList = () => {
                         </Form>
                     </Col>
                     <Col md={3} className="d-flex justify-content-end pb-4">
-                        <Button variant="outline-primary mx-3" onClick={() => setIsAdd(false)}>Cancle</Button>
+                        <Button variant="outline-primary mx-3" onClick={() => cancleAdd()}>Cancle</Button>
                         <Button variant="primary" type="submit" onClick={() => addToDo()}>Create</Button>
                     </Col>
                 </Row>
